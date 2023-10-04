@@ -351,3 +351,8 @@ App passwords - Select Mail, Select Device - Other, Django, Copy app password.
 In Heroku 
 EMAIL_HOST_PASS is the password copied from above.
 EMAIL_HOST_USER is the gmail email address
+
+# Credits
+
+Websites 
+[link for initial code origin](https://blog.devgenius.io/django-tutorial-on-how-to-create-a-booking-system-for-a-health-clinic-9b1920fc2b78)
